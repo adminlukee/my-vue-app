@@ -1,0 +1,2 @@
+
+708036e0a8d5b7db40946ef5bfb406a2218d06ba	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/acorn-import-assertions","integrity":null,"time":1666847773110,"size":"262","metadata":{"time":1666847773110,"url":"http://registry.npm.taobao.org/acorn-import-assertions","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:15 GMT","location":"https://registry.npmmirror.com/acorn-import-assertions"},"options":{"compress":true},"status":301}}

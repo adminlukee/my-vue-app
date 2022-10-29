@@ -1,0 +1,2 @@
+
+7ffb54f960b661160ae47147fcba47c13ad59fe5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fast-deep-equal","integrity":null,"time":1666847777186,"size":"262","metadata":{"time":1666847777186,"url":"http://registry.npm.taobao.org/fast-deep-equal","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:19 GMT","location":"https://registry.npmmirror.com/fast-deep-equal"},"options":{"compress":true},"status":301}}

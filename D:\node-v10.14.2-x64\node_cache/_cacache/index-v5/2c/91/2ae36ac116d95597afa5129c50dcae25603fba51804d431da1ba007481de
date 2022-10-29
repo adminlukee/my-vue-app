@@ -1,0 +1,2 @@
+
+968a0ceb133ec694c44154a3030ccc7b0f4182ba	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@webassemblyjs%2futf8","integrity":null,"time":1666847774278,"size":"262","metadata":{"time":1666847774278,"url":"http://registry.npm.taobao.org/@webassemblyjs%2futf8","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:16 GMT","location":"https://registry.npmmirror.com/@webassemblyjs%2futf8"},"options":{"compress":true},"status":301}}

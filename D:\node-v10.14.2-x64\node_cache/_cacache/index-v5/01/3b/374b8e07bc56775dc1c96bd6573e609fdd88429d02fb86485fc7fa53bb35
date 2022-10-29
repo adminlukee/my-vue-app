@@ -1,0 +1,2 @@
+
+fe750f78c72174e2979442b63a23405266ff2044	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tslib","integrity":null,"time":1666877165062,"size":"262","metadata":{"time":1666877165061,"url":"http://registry.npm.taobao.org/tslib","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 13:26:06 GMT","location":"https://registry.npmmirror.com/tslib"},"options":{"compress":true},"status":301}}

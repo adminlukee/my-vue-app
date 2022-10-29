@@ -1,0 +1,2 @@
+
+cd1f1c4c738b7c8bdc624893c229766744dc89ad	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2fjs-cookie","integrity":null,"time":1667025988303,"size":"262","metadata":{"time":1667025988302,"url":"http://registry.npm.taobao.org/@types%2fjs-cookie","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Oct 2022 06:46:28 GMT","location":"https://registry.npmmirror.com/@types%2fjs-cookie"},"options":{"compress":true},"status":301}}

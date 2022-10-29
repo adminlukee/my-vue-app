@@ -1,0 +1,2 @@
+
+eae261e0f183e7125f6ee7ab6a0cbe13bbce147b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/axios","integrity":null,"time":1666866070585,"size":"262","metadata":{"time":1666866070585,"url":"http://registry.npm.taobao.org/axios","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 10:21:10 GMT","location":"https://registry.npmmirror.com/axios"},"options":{"compress":true},"status":301}}

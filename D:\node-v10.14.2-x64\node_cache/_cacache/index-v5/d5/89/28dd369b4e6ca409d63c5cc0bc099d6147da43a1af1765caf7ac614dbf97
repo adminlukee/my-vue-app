@@ -1,0 +1,2 @@
+
+cc2f186b30266cf1b21346ffeb6496f93cff1ea9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/klona","integrity":null,"time":1666847773093,"size":"262","metadata":{"time":1666847773093,"url":"http://registry.npm.taobao.org/klona","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:15 GMT","location":"https://registry.npmmirror.com/klona"},"options":{"compress":true},"status":301}}

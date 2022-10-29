@@ -1,0 +1,2 @@
+
+2622117484247ce20d1c06b5ddcd0eea1f7de1bf	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2feslint-scope","integrity":null,"time":1666847773091,"size":"262","metadata":{"time":1666847773090,"url":"http://registry.npm.taobao.org/@types%2feslint-scope","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:15 GMT","location":"https://registry.npmmirror.com/@types%2feslint-scope"},"options":{"compress":true},"status":301}}

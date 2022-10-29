@@ -1,0 +1,2 @@
+
+be3c79b29aecdc78303c7fb0ea0d7bc2446ab978	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/neo-async","integrity":null,"time":1666847773088,"size":"262","metadata":{"time":1666847773087,"url":"http://registry.npm.taobao.org/neo-async","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:15 GMT","location":"https://registry.npmmirror.com/neo-async"},"options":{"compress":true},"status":301}}

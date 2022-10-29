@@ -1,0 +1,2 @@
+
+eca0380cfb37249c39767382a5c38e8809372f2e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@webassemblyjs%2fwasm-gen","integrity":null,"time":1666847774263,"size":"262","metadata":{"time":1666847774263,"url":"http://registry.npm.taobao.org/@webassemblyjs%2fwasm-gen","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:16 GMT","location":"https://registry.npmmirror.com/@webassemblyjs%2fwasm-gen"},"options":{"compress":true},"status":301}}

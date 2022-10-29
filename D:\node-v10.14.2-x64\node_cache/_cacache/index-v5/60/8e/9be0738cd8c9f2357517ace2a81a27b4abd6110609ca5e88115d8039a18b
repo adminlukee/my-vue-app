@@ -1,0 +1,2 @@
+
+8c5a78e993f50ab21b260bb2c31b1455a3cdd314	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/watchpack","integrity":null,"time":1666847773169,"size":"262","metadata":{"time":1666847773169,"url":"http://registry.npm.taobao.org/watchpack","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:15 GMT","location":"https://registry.npmmirror.com/watchpack"},"options":{"compress":true},"status":301}}

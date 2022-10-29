@@ -1,0 +1,2 @@
+
+828cff1746012ef4551584197840fd60b8711d49	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/update-browserslist-db","integrity":null,"time":1666847774340,"size":"262","metadata":{"time":1666847774340,"url":"http://registry.npm.taobao.org/update-browserslist-db","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:16 GMT","location":"https://registry.npmmirror.com/update-browserslist-db"},"options":{"compress":true},"status":301}}

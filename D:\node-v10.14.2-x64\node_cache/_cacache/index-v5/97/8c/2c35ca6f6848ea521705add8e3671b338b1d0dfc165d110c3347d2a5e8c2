@@ -1,0 +1,2 @@
+
+b6f7cd17634dc86038bc1ac7416322a790eb3671	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2feslint","integrity":null,"time":1666847774258,"size":"262","metadata":{"time":1666847774258,"url":"http://registry.npm.taobao.org/@types%2feslint","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:16 GMT","location":"https://registry.npmmirror.com/@types%2feslint"},"options":{"compress":true},"status":301}}

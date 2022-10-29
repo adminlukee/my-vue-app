@@ -1,0 +1,2 @@
+
+74129d0d56d410f870c2a21d89cf0d12483721d4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/proxy-from-env","integrity":null,"time":1666866071038,"size":"262","metadata":{"time":1666866071037,"url":"http://registry.npm.taobao.org/proxy-from-env","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 10:21:11 GMT","location":"https://registry.npmmirror.com/proxy-from-env"},"options":{"compress":true},"status":301}}

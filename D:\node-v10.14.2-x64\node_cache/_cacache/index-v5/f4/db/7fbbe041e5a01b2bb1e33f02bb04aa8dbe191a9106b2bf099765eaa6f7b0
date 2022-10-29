@@ -1,0 +1,2 @@
+
+71a2c96af3cf979f0170b23a79102ea9b62476d8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/chrome-trace-event","integrity":null,"time":1666847773106,"size":"262","metadata":{"time":1666847773106,"url":"http://registry.npm.taobao.org/chrome-trace-event","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:15 GMT","location":"https://registry.npmmirror.com/chrome-trace-event"},"options":{"compress":true},"status":301}}

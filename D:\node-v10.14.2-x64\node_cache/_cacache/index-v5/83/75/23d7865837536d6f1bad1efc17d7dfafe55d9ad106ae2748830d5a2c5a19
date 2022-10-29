@@ -1,0 +1,2 @@
+
+5628fe5a6c89dd408c48d389cdc53930c3465114	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@xtuc%2fieee754","integrity":null,"time":1666847776771,"size":"262","metadata":{"time":1666847776770,"url":"http://registry.npm.taobao.org/@xtuc%2fieee754","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:19 GMT","location":"https://registry.npmmirror.com/@xtuc%2fieee754"},"options":{"compress":true},"status":301}}

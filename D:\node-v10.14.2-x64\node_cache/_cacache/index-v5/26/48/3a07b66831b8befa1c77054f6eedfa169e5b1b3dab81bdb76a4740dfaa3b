@@ -1,0 +1,2 @@
+
+52b649532c1d1dca06a78982aa57c8636f3c35ea	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tapable","integrity":null,"time":1666847773158,"size":"262","metadata":{"time":1666847773158,"url":"http://registry.npm.taobao.org/tapable","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:15 GMT","location":"https://registry.npmmirror.com/tapable"},"options":{"compress":true},"status":301}}

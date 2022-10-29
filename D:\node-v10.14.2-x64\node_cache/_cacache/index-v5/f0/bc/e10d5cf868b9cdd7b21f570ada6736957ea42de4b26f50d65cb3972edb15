@@ -1,0 +1,2 @@
+
+eb73c56e956c370a42a2a7319f50396751257757	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/browserslist","integrity":null,"time":1666847773112,"size":"262","metadata":{"time":1666847773111,"url":"http://registry.npm.taobao.org/browserslist","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:15 GMT","location":"https://registry.npmmirror.com/browserslist"},"options":{"compress":true},"status":301}}

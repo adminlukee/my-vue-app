@@ -1,0 +1,2 @@
+
+ac316654d8393db626934a00cfc8a9a5bda36c54	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2fmockjs","integrity":null,"time":1666865682581,"size":"262","metadata":{"time":1666865682581,"url":"http://registry.npm.taobao.org/@types%2fmockjs","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 10:14:42 GMT","location":"https://registry.npmmirror.com/@types%2fmockjs"},"options":{"compress":true},"status":301}}

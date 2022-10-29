@@ -1,0 +1,2 @@
+
+7d0469fbe8ce27e7dc31f5d38459d3c58e1da61c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/eslint-scope","integrity":null,"time":1666847773119,"size":"262","metadata":{"time":1666847773118,"url":"http://registry.npm.taobao.org/eslint-scope","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:15 GMT","location":"https://registry.npmmirror.com/eslint-scope"},"options":{"compress":true},"status":301}}

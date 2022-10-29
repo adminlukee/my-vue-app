@@ -1,0 +1,2 @@
+
+7dc2960eb378fd2020ef98a4ad9436e3d1e13a1e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/events","integrity":null,"time":1666847773104,"size":"262","metadata":{"time":1666847773104,"url":"http://registry.npm.taobao.org/events","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Thu, 27 Oct 2022 05:16:15 GMT","location":"https://registry.npmmirror.com/events"},"options":{"compress":true},"status":301}}
